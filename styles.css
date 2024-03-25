@@ -1,0 +1,47 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+    background-image: url("https://i.pinimg.com/564x/93/10/eb/9310eb546dc0153e28cf4f426c8f19db.jpg ");
+
+}
+.mid{
+    text-align:center;
+}
+.harr{
+    display:flex;
+    justify-content:center;
+}
+h1{
+    color:lightblue;
+    text-align: center;
+}
+h4{
+    color:aliceblue;
+}
+.question2{
+  width:60px;
+}
+#Harry{
+  display:none;
+}
+#Louis{
+  display:none;
+}
+#Zayn{
+  display:none;
+}
+#Niall{
+  display:none;
+}
+.one{
+   
+    position: relative;
+}
+#result{
+    color:white;
+}
+label{
+    color:white;
+}
